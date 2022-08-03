@@ -10,5 +10,5 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente sou estudante nas escolas Trybe e Digital House
-- - ⚡ Até o momento já aprendi sobre HTML, CSS, SASS, SCSS, GIT
+- ⚡ Até o momento já aprendi sobre HTML, CSS, SASS, SCSS, GIT
 - 🌱 Atualmente estou aprendendo JAVASCRIPT, DOM, BANCOS DE DADOS
